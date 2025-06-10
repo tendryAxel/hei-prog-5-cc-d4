@@ -1,5 +1,7 @@
-# 🐍 HEI Snake Game  
-*(Calculatrice et cahier de leçon autorisés)*  
+# 🐍 HEI Snake Game
+En binome:
+- [STD22075](https://github.com/tendryAxel)
+- [STD22079](https://github.com/MiiJack)
 
 ## 🎯 Objectifs
 
