@@ -3,6 +3,22 @@ En binome:
 - [STD22075](https://github.com/tendryAxel)
 - [STD22079](https://github.com/MiiJack)
 
+# Run project
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.ts
+```
+
+This project was created using `bun init` in bun v1.1.38. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+
+
 ## 🎯 Objectifs
 
 Développer un mini-moteur du **Snake Game** en console, en appliquant les principes de **Clean Code** :

@@ -1,0 +1,11 @@
+{
+  "name": "hei-prog-5-cc-d4",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
